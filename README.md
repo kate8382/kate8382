@@ -1,6 +1,6 @@
 # Hello! 👋 My name is Ekaterina (Kate)
 
-I am a junior web developer passionate about creating modern and user-friendly interfaces. Since August 2023, I have been studying to become a PRO Frontend Developer. Under the guidance of Skillbox mentors, I completed the **Basic Web Development** and **Basic JavaScript** courses with final projects. Currently, I am independently studying **Advanced JavaScript**. Here's a little about me:
+I am a junior web developer passionate about creating modern and user-friendly interfaces. Coming from a non-IT background, I have been fully dedicated to learning web development since August 2023, completing courses and building projects to strengthen my skills to become a PRO Frontend Developer. Under the guidance of Skillbox mentors, I completed the **Basic Web Development** and **Basic JavaScript** courses with final projects. Currently, I am independently studying **Advanced JavaScript**. Here's a little about me:
 
 - 🌱 Planning to learn: **TypeScript, Node.js, React, Vue**.
 - 💼 Looking for opportunities to work in frontend development, as I believe practice is the best teacher.
@@ -12,8 +12,10 @@ I am a junior web developer passionate about creating modern and user-friendly i
 
 ## 📂 My Projects:
 - [V-Wave Radio](https://github.com/kate8382/w-vawe_radio) — final project of a web page.
-- [Frontend-module](https://github.com/kate8382/frontend-module) — interface module for a CRM web application.
-- [Frontend-Pro](https://github.com/kate8382/frontend-pro) — final project of a CRM system, including a module.
+- [Frontend-Pro](https://github.com/kate8382/frontend-pro) — final project of a CRM system, including a [Frontend-module](https://github.com/kate8382/frontend-module) — an interface module for a CRM web application, developed by me.
+
+## 📒 My Practical Works:
+- [To Do List](https://github.com/kate8382/to_do_list) — a practical project to practice **arrays, DOM manipulation, and event handling**. Also, I explored **Node.js** by configuring `eslint.config.json` and adapting the `package.json` file initially set up for GitLab.
 - [Memory Game](https://github.com/kate8382/memory_game) — a practical project on **constants, scope, and closures**. The process was very exciting! 😊
 
 ## 🌟 My Goals:
