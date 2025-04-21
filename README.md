@@ -15,7 +15,7 @@ I am a junior web developer passionate about creating modern and user-friendly i
 - [Frontend-Pro](https://github.com/kate8382/frontend-pro) — final project of a CRM system, including a [Frontend-module](https://github.com/kate8382/frontend-module) — an interface module for a CRM web application, developed by me.
 
 ## 📒 My Practical Works:
-- [To Do List](https://github.com/kate8382/to_do_list) — a practical project to practice **arrays, DOM manipulation, and event handling**. Also, I explored **Node.js** by configuring `eslint.config.json` and adapting the `package.json` file initially set up for GitLab.
+- [To-Do App](https://github.com/kate8382/to-do_app) — a practical project to practice **arrays, DOM manipulation, and event handling**. Also, I explored **Node.js** by configuring `eslint.config.json` and adapting the `package.json` file initially set up for GitLab.
 - [Memory Game](https://github.com/kate8382/memory_game) — a practical project on **constants, scope, and closures**. The process was very exciting! 😊
 
 ## 🌟 My Goals:
