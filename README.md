@@ -18,6 +18,7 @@ I am a junior web developer passionate about creating modern and user-friendly i
 - [To-Do App](https://github.com/kate8382/to-do_app) — a practical project to practice **arrays, DOM manipulation, and event handling**. Also, I explored **Node.js** by configuring `eslint.config.json` and adapting the `package.json` file initially set up for GitLab.
 - [Memory Game](https://github.com/kate8382/memory_game) — a practical project on **constants, scope, and closures**. The process was very exciting! 😊
 - [Students List](https://github.com/kate8382/students_list) — a student management application that allows adding, deleting, sorting, and filtering students. This project focuses on working with a server and using **type-transform** to manage and display data in a table format.
+- [Guess Number Game](https://github.com/kate8382/guess_number_game) — a practical project to explore **browser events** and **execution context**. This game challenges users to guess a number within a minute, with limited attempts and hints. This project was completed during my self-study journey.
 
 ## 🌟 My Goals:
 - Deepen my knowledge in web development.
