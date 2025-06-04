@@ -15,9 +15,19 @@ I am a junior web developer passionate about creating modern and user-friendly i
 - [Frontend-Pro](https://github.com/kate8382/frontend-pro) — final project of a CRM system, including a [Frontend-module](https://github.com/kate8382/frontend-module) — an interface module for a CRM web application, developed by me.
 
 ## 📒 My Practical Works:
-- [To-Do App](https://github.com/kate8382/to-do_app) — a modular to-do list app with bilingual (RU/EN) interface, hybrid API + localStorage support, and instant language switching. The project is split into modules for UI and API logic, supports offline mode, and demonstrates modern frontend architecture. Also, I explored **Node.js** by configuring `eslint.config.json` and adapting the `package.json` file initially set up for GitLab.
+- [To-Do App](https://github.com/kate8382/to-do_app) — a modular to-do list application with a bilingual (RU/EN) interface, hybrid API + localStorage support, and instant language switching.
+  - The UI is built with **Bootstrap 5** for a modern and responsive design.
+  - The project is split into modules for UI and API logic, making it easy to maintain and extend.
+  - Supports offline mode: tasks are saved in localStorage if the server is unavailable.
+  - Implements asynchronous operations with fetch/async-await and robust error handling.
+  - Demonstrates modern frontend architecture and best practices.
+  - Includes experience with **Node.js** for configuring eslint and adapting the package.json file initially set up for GitLab.
 - [Memory Game](https://github.com/kate8382/memory_game) — a practical project on **constants, scope, and closures**. The process was very exciting! 😊
-- [Students List](https://github.com/kate8382/students_list) — a student management application that allows adding, deleting, sorting, and filtering students. This project focuses on working with a server and using **type-transform** to manage and display data in a table format.
+- [Students List](https://github.com/kate8382/students_list) — a student management application that allows adding, deleting, sorting, and filtering students. This project focuses on working with a server and using **type-transform** to manage and display data in a table format. 
+  - The app uses modern JavaScript (ES6+), Bootstrap 5 for UI, and a custom Node.js backend (JSON file storage).
+  - All operations (add, delete, sort, filter) require the backend server to be running; otherwise, the page will only display the interface without functionality.
+  - The project demonstrates asynchronous operations with fetch/async-await, error handling, and modular code structure (separating API and UI logic).
+  - Can be run as a static site for demo purposes, but full functionality is available only with the backend server running.
 - [Guess Number Game](https://github.com/kate8382/guess_number_game) — a practical project to explore **browser events** and **execution context**. This game challenges users to guess a number within a minute, with limited attempts and hints. This project was completed during my self-study journey.
 
 ## 🌟 My Goals:
