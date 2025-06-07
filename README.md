@@ -15,7 +15,7 @@ I am a junior web developer passionate about creating modern and user-friendly i
 - [Frontend-Pro](https://github.com/kate8382/frontend-pro) — final project of a CRM system, including a [Frontend-module](https://github.com/kate8382/frontend-module) — an interface module for a CRM web application, developed by me.
 
 ## 📒 My Practical Works:
-- [To-Do App](https://github.com/kate8382/to-do_app) — a modular to-do list application with a bilingual (RU/EN) interface, hybrid API + localStorage support, and instant language switching.
+- [To-Do App](https://github.com/kate8382/to-do_app) — a modular to-do list application with a bilingual (RU/EN) interface, hybrid API + localStorage support, instant language switching, and **hash-based navigation** (SPA-like experience).
   - The UI is built with **Bootstrap 5** for a modern and responsive design.
   - The project is split into modules for UI and API logic, making it easy to maintain and extend.
   - Supports offline mode: tasks are saved in localStorage if the server is unavailable.
