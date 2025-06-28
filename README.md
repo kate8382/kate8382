@@ -28,7 +28,7 @@ I am a junior web developer passionate about creating modern and user-friendly i
   - All operations (add, delete, sort, filter) require the backend server to be running; otherwise, the page will only display the interface without functionality.
   - The project demonstrates asynchronous operations with fetch/async-await, error handling, and modular code structure (separating API and UI logic).
   - Can be run as a static site for demo purposes, but full functionality is available only with the backend server running.
-- [Guess Number Game](https://github.com/kate8382/guess_number_game) — a practical project to explore **browser events** and **execution context**. This game challenges users to guess a number within a minute, with limited attempts and hints. This project was completed during my self-study journey.
+- [Guess Number Game](https://github.com/kate8382/guess_number_game) — a practical project to explore **browser events**, **execution context**, and **classes** (OOP). The project supports both procedural (`main.js`) and OOP (`class.js`) approaches: you can switch between them by commenting/uncommenting the corresponding script tag in `index.html`. This game challenges users to guess a number within a minute, with limited attempts and hints. This project was completed during my self-study journey.
 
 ## 🌟 My Goals:
 - Deepen my knowledge in web development.
