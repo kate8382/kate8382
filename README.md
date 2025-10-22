@@ -2,7 +2,7 @@ Hi — I'm Ecaterina (Katya) 👋
 
 I’m a Junior Frontend Developer who builds production-ready web apps. I focus on modern JavaScript, robust tooling and automated testing. I enjoy turning UX ideas into reliable, maintainable interfaces.
 
-Contact: <a href="mailto:e.sevciuc82@gmail.com" target="_blank" rel="noopener noreferrer">e.sevciuc82@gmail.com</a> 
+Contact: [e.sevciuc82@gmail.com](mailto:e.sevciuc82@gmail.com) 
 
 ## What I do
 - Build responsive, accessible UIs with HTML, CSS and modern JavaScript (ES6+).
