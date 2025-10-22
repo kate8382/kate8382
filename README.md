@@ -21,19 +21,19 @@ Contact: [e.sevciuc82@gmail.com](mailto:e.sevciuc82@gmail.com)
   (Features: global error collection, filters, charts, modal editing, CI with GitHub Actions.)
 
 ## Projects
-- [V‑Wave Radio](https://github.com/kate8382/w-vawe_radio/) — final HTML/CSS project (pixel‑perfect, responsive).
-- [Frontend‑Pro](https://github.com/kate8382/frontend-pro/) — CRM final project (including a [Frontend-module](https://github.com/kate8382/frontend-module/)).
+- [V‑Wave Radio](https://kate8382.github.io/w-vawe_radio/) — final HTML/CSS project (pixel‑perfect, responsive).
+- [Frontend‑Pro](https://github.com/kate8382/frontend-pro/) — CRM final project (including a [Frontend-module](https://kate8382.github.io/frontend-module/)).
 
 ## Practical works
-- [To‑Do App](https://github.com/kate8382/to-do_app/) — modular SPA with hybrid API/localStorage and hash navigation.
+- [To‑Do App](https://kate8382.github.io/to-do_app/) — modular SPA with hybrid API/localStorage and hash navigation.
   - The UI is built with Bootstrap 5 for a modern and responsive design.
   - Project is modular (UI/API) and supports offline mode via localStorage.
   - Demonstrates async operations (fetch/async-await) and robust error handling.
-- [Students List](https://github.com/kate8382/students_list/) — app with server-backed JSON storage and table operations.
+- [Students List](https://kate8382.github.io/students_list/) — app with server-backed JSON storage and table operations.
   - Modern JS (ES6+), Bootstrap 5 UI, Node.js backend for JSON storage.
   - Demonstrates add/delete/sort/filter operations, async fetch, error handling and modular architecture.
-- [Memory Game](https://github.com/kate8382/memory_game/) — practical exercise on constants, scope and closures.
-- [Guess Number Game](https://github.com/kate8382/guess_number_game/) — practical exercise on events, timing and simple OOP.
+- [Memory Game](https://kate8382.github.io/memory_game/) — practical exercise on constants, scope and closures.
+- [Guess Number Game](https://kate8382.github.io/guess_number_game/) — practical exercise on events, timing and simple OOP.
 
 ## 🌟 My Goals
 - Continue learning TypeScript, React and Node.js
