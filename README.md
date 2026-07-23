@@ -46,6 +46,7 @@ I actively write about engineering challenges, technical philosophy, and the int
 
 ### 💼 Technical Communication, Career & Personal Journey
 - **The Power of Clarity:** [The Human Protocol: Why clarity is the ultimate technical skill](https://dev.to/kate8382/the-human-protocol-why-clarity-is-the-ultimate-technical-skill-4n4l) — Why clear communication and requirement analysis matter just as much as writing clean algorithms.
+- **Real-World Engineering Case Study:** [Why titles and price tags don't guarantee quality: the work speaks for itself](https://coderlegion.com/23258/why-titles-and-price-tags-dont-guarantee-quality-the-work-speaks-for-itself) — A production case study on rebuilding a musician’s website from legacy chaos into an accessible, high-performance platform under real delivery constraints.
 - **My Story:** [Confessions of an "Outlier" with a very strange background for Dev](https://coderlegion.com/19096/confessions-of-an-outlier-with-a-very-strange-background-for-dev) — My personal journey transitioning from banking and legal sectors into software engineering.
 - **Code Handwriting:** [The "Invisible" Routine: Why Every Developer Needs Their Own Code Handwriting](https://coderlegion.com/20431/the-invisible-routine-why-every-developer-needs-their-own-code-handwriting) — A deep reflection on code aesthetics, personal style, and engineering identity.
 
